@@ -55,18 +55,3 @@ Hey there! 👋 I'm **Sithum Udayanga**, a passionate **Full Stack & Cloud Solut
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SithumUD&theme=onedark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SithumUD&theme=onedark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=SithumUD&theme=dracula&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repo:
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=SithumUD&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-
-## 👁️ Profile Views:
-[![Views](https://visitcount.itsvg.in/api?id=SithumUD&icon=3&color=0)](https://visitcount.itsvg.in)
